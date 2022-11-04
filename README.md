@@ -1,1 +1,1 @@
-# CyberCrowdProtocol
+# This is the contract of CyberCrowdProtocol Coin
